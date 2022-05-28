@@ -1,2 +1,2 @@
 # suzukan.github.io
-In progress!
+This website is in progress!
